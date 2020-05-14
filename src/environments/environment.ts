@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   baseUrl: 'http://apis.imooc.com/api',
-  icode: 'xxxx'
+  icode: '84220BE04E2A51D4'
 };
 
 /*
